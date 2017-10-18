@@ -1,0 +1,48 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="wmaccessories.ru" resolutions="1x" timestamp="1508341759524">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="451940202" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="playfairdisplaybold.woff" crc="531266693"/>
+    <file name="playfairdisplaybold.eot" crc="3990811566"/>
+    <file name="playfairdisplayregular.woff" crc="84960981"/>
+    <file name="playfairdisplayregular.eot" crc="169932609"/>
+    <file name="futurafuturislight.woff" crc="4037831048"/>
+    <file name="futurafuturislight.eot" crc="227235770"/>
+    <file name="futurafuturislight.svg" crc="3895353273"/>
+    <file name="futurafuturisbold.woff" crc="238019985"/>
+    <file name="futurafuturisbold.eot" crc="234458135"/>
+    <file name="futurafuturisbold.svg" crc="401509947"/>
+    <file name="futurafuturismedium.woff" crc="3887423742"/>
+    <file name="futurafuturismedium.eot" crc="431881642"/>
+    <file name="futurafuturismedium.svg" crc="4213959665"/>
+    <file name="playfairdisplayitalic.woff" crc="160053482"/>
+    <file name="playfairdisplayitalic.eot" crc="66771088"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="172512987" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="uprect.png" crc="520851921" seo="true" ref="index"/>
+    <file name="accessories.png" crc="4237993959" seo="true" ref="index"/>
+    <file name="ban1.jpg" crc="3989490625" seo="true" ref="index"/>
+    <file name="road.jpg" crc="180693847" seo="true" ref="index"/>
+    <file name="trees.jpg" crc="4071309946" seo="true" ref="index"/>
+    <file name="cactus.jpg" crc="444484082" seo="true" ref="index"/>
+    <file name="road68x45.jpg" crc="4279704958" seo="true" ref="index"/>
+    <file name="trees68x45.jpg" crc="437640788" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="457249714" seo="true" mt="1508341751738" redirect="true"/>
+</manifest>
